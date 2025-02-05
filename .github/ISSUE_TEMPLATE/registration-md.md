@@ -1,6 +1,6 @@
 ---
 name: registration.md
-about: A form for a student to add their profile information
+about: Форма для регистрации
 title: ''
 labels: new-participant
 assignees: erinadavydova

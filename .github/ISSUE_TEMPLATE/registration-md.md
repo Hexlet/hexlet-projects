@@ -1,7 +1,7 @@
 ---
 name: registration.md
 about: Форма для регистрации
-title: Имя Фамилия
+title: ''
 labels: new-participant
 assignees: ''
 

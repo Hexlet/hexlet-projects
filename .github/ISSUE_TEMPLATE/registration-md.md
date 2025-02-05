@@ -1,9 +1,9 @@
 ---
 name: registration.md
 about: Форма для регистрации
-title: ''
+title: Имя Фамилия
 labels: new-participant
-assignees: erinadavydova
+assignees: ''
 
 ---
 
